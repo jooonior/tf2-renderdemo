@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartWorkingDirectory>C:\Users\Me\source\repos\RenderDemo\RenderDemo\</StartWorkingDirectory>
+    <StartArguments>-sdrdir "D:\movie\SDR" -exepath "D:\Program Files %28x86%29\Steam\steamapps\common\Team Fortress 2\hl2.exe" -tfdir tf_movie -demo "hightower" -start 50 -end 500 -out "D:\Me\Desktop\my movie" -profile video -overwrite yes -test -cmd "" -loglevel brief -window hidden -help</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PublishUrlHistory />
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
